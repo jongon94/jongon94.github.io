@@ -1,4 +1,10 @@
 .menu ul{list-style-type:none;}
 .menu a{text-decoration:none;}
 .menu li{display:inline;}
-body{}
+/*Above is Css for the menu*/
+
+/*Index Page CSS*/
+#HomeWrapper{background-image:url(pixs/seasons.jpg);}
+
+/*End of Home page CSS*/
+
