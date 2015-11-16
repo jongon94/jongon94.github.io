@@ -3,8 +3,13 @@
 .menu li{display:inline;}
 /*Above is Css for the menu*/
 
-/*Index Page CSS*/
-#HomeWrapper{background-image:url(pixs/seasons.jpg);}
+/*Index Page CSS
+#HomeWrapper{background-image:url(pixs/seasons.jpg);
+	*/
+#box{box-shadow:5px 5px 5px #828282; margin: 50px;
+	background-color:#FFFFFF;height:800px}
+
+
 
 /*End of Home page CSS*/
 
