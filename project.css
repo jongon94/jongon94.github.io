@@ -1,13 +1,17 @@
+.menu a{padding:15px;background-color:#000000; color:#FFFFFF;}
 .menu ul{list-style-type:none;}
 .menu a{text-decoration:none;}
 .menu li{display:inline;}
+.menu a:hover{background-color:#7A991A;}
 /*Above is Css for the menu*/
 
 /*Index Page CSS
 #HomeWrapper{background-image:url(pixs/seasons.jpg);
 	*/
 #box{box-shadow:5px 5px 5px #828282; margin: 50px;
-	background-color:#FFFFFF;height:800px}
+		background-color:#FFFFFF;height:95vh;
+			opacity:0.8;}
+#writing {text-align:center;}
 
 
 

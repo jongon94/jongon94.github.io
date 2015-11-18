@@ -24,3 +24,17 @@ CSS:
 	body{background-image:url(pixs/PictureName.jpg);}
 	
 Have a good weekend, IR
+---------------------------------------------------------------------------------------
+11-17-15 Tuesday
+
+Hello again,
+I made some changes to the menu.
+I just wanted suggestions on what colors you want for the menu...
+
+Text color: ??????????
+Box color:???????????
+Box Hover color:????????
+
+Its looking good tho!!!
+
+-Cheers/Ivan R
