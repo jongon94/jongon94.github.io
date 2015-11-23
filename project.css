@@ -8,7 +8,7 @@
 /*Index Page CSS
 #HomeWrapper{background-image:url(pixs/seasons.jpg);
 	*/
-#box{box-shadow:5px 5px 5px #828282; margin: 50px;
+.box{box-shadow:5px 5px 5px #828282; margin: 50px;
 		background-color:#FFFFFF;height:95vh;
 			opacity:0.8;}
 #writing {text-align:center;}
