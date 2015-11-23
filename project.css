@@ -3,11 +3,10 @@
 .menu a{text-decoration:none;}
 .menu li{display:inline;}
 .menu a:hover{background-color:#7A991A;}
+.menu {padding: 10px 500px 0px 500px;}
+
 /*Above is Css for the menu*/
 
-/*Index Page CSS
-#HomeWrapper{background-image:url(pixs/seasons.jpg);
-	*/
 .box{box-shadow:5px 5px 5px #828282; margin: 50px;
 		background-color:#FFFFFF;height:95vh;
 			opacity:0.8;}
