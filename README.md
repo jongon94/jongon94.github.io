@@ -38,3 +38,12 @@ Box Hover color:????????
 Its looking good tho!!!
 
 -Cheers/Ivan R
+------------------------------------------------------------------------------------------
+12-02-15 Wednesday
+Yo New update!!
+Fixed the menu, it is NOW somewhat responsive to the size of the browser.
+I recommend that we follow in Mitchel's footsteps and put everything under the "center" elements. Example: <center> blah blah </center>
+I also added a little code to all of our head part: <meta name="viewport" content="width=device-width, initial-scale=1.0">
+so don't delete it, we need it.
+Cheer/Ivan 
+
