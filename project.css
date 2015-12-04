@@ -31,9 +31,11 @@
 
 
 .box{box-shadow:5px 5px 5px #828282; margin: 50px;
-		background-color:#FFFFFF;height:95vh;
-			opacity:0.8; font-family:monotype corsiva;}
-#writing {text-align:center;}
+		background-color:#FFFFFF;height:97vh;
+			opacity: 0.9;font-family:monotype corsiva;}
 
+#writing {text-align:center;}
+#myList ul{list-style-type:none;}
+#myList a{text-decoration:none;}
 /*End of Home page CSS*/
 
